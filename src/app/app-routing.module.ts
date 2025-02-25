@@ -52,7 +52,7 @@ import { ProductlistBrandComponent } from './views/admin/productlist-brand/produ
 
 const routes: Routes = [ {
   path: '',
-  redirectTo:'login',
+  redirectTo:'ad-home',
   pathMatch: 'full'
 },{
   path: 'login',
